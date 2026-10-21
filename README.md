@@ -213,6 +213,7 @@ python3 my-mathmodel-agent/scripts/audit_workspace.py 2026-cumcm-a
 | [my-mathmodel-agent/references/workflow-contract.md](my-mathmodel-agent/references/workflow-contract.md) | 十阶段详细契约 |
 | [my-mathmodel-agent/references/artifact-contracts.md](my-mathmodel-agent/references/artifact-contracts.md) | JSON 产物字段规范 |
 | [my-mathmodel-agent/references/evaluation-rubric.md](my-mathmodel-agent/references/evaluation-rubric.md) | 独立审查评分表 |
+| [my-mathmodel-agent/references/practice-loop.md](my-mathmodel-agent/references/practice-loop.md) | 限时训练、证据评分与换题复测闭环 |
 | [docs/WORKFLOW.md](docs/WORKFLOW.md) | 中文执行说明 |
 | [docs/INSTALL.md](docs/INSTALL.md) | 安装与环境诊断 |
 | [docs/CONTRIBUTE.md](docs/CONTRIBUTE.md) | 贡献指南 |
